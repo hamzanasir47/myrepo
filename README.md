@@ -7,7 +7,7 @@ This is my personal space for sharing and organizing everything I learn and crea
 - ☁️ **Cloud Computing**: Notes, guides, and hands-on labs for AWS, Azure, GCP, and more.
 - 🛠️ **DevOps**: CI/CD pipelines, automation scripts, Docker, Kubernetes, and best practices.
 - 🤖 **Artificial Intelligence**: AI/ML projects, experiments, and learning resources.
-- 🎥 **YouTube Tutorials**: My own tutorials and curated playlists for tech learning.
+- 🎥 **YouTube Tutorials**: My own tutorials and curated playlists for tech learning.(Coming soon)
 - 🧠 **AI Applications**: Cool apps, demos, and prototypes using AI.
 - 💡 **Other Tech Stuff**: Anything else that sparks my curiosity in tech!
 
@@ -18,4 +18,4 @@ This is my personal space for sharing and organizing everything I learn and crea
 ---
 
 Connect with me:
-- [LinkedIn](#) | [Twitter](#) | [YouTube](#)
+- [LinkedIn](https://www.linkedin.com/in/hamza-nasir475/) | [YouTube](Coming soon)
